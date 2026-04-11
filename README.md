@@ -16,7 +16,7 @@
 2. 安装依赖：`pip install pandas openpyxl numpy`
 3. 运行：`python 查寝小帮手ultra.py`
 
-### 方式二：直接下载exe文件运行
+### 方式二：直接下载exe文件运行（建议没有任何环境配置、没有技术基础的Windows OS用户操作）
 
 ### macOS请运行源代码，本软件适配了macOS.
 
