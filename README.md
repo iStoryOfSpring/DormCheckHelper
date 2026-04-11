@@ -12,12 +12,13 @@
 
 ## 📦 安装与运行
 ### 方式一：直接运行源码
-1. 确保安装 Python 3.7+
+1. 确保安装 Python 3.9+
 2. 安装依赖：`pip install pandas openpyxl numpy`
 3. 运行：`python 查寝小帮手ultra.py`
 
-### 方式二：打包为 exe（可选）
-`pyinstaller --onefile --windowed 查寝小帮手ultra.py`
+### 方式二：直接下载exe文件运行
+
+### macOS请运行源代码，本软件适配了macOS.
 
 ## 🖥️ 使用说明
 1. 填写检查日期、人员、随机种子（相同种子结果可复现）
