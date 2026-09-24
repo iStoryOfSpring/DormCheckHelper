@@ -36,7 +36,7 @@
 见 [DEVELOPMENT.md](DEVELOPMENT.md)，包含程序结构、评分流程、导出字段映射、版式规则、运行和验证说明。
 
 ## 📁 文件结构
-- `查寝小帮手ultra.py`：主程序入口和 Excel 导出实现
+- `dormcheckhelper.py`：主程序入口和 Excel 导出实现
 - `DEVELOPMENT.md`：完整开发文档
 
 ## 📜 许可证
