@@ -1,8 +1,7 @@
 # DormCheckHelper
 🏢 基于正态分布的寝室卫生检查评分模拟工具 | GUI + Excel导出
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
-# 查寝小帮手Ultra 🧹📊
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 一个基于正态分布随机生成合理寝室卫生评分的 GUI 工具，适用于学生会/宿管部模拟检查数据。请注意，此软件仅供交流学习使用，不当使用该软件造成的一切后果由使用软件者自行承担，作者不承担任何责任。使用软件前请确保您个人具备完全民事行为能力。
 
